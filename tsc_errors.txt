@@ -1,6 +1,0 @@
-src/components/creator/CreatorProfileView.tsx(9,25): error TS1484: 'UserProfileSummary' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
-src/components/creator/CreatorProfileView.tsx(43,17): error TS6133: 'profile' is declared but its value is never read.
-src/components/creator/CreatorProfileView.tsx(43,26): error TS6133: 'setProfile' is declared but its value is never read.
-src/components/creator/CreatorProfileView.tsx(110,23): error TS2339: Property 'email' does not exist on type '{ id: any; full_name: any; avatar_url: any; specialty: any; }'.
-src/components/creator/CreatorProfileView.tsx(112,21): error TS2339: Property 'bio' does not exist on type '{ id: any; full_name: any; avatar_url: any; specialty: any; }'.
-src/components/creator/CreatorProfileView.tsx(128,27): error TS2339: Property 'bio' does not exist on type '{ id: any; full_name: any; avatar_url: any; specialty: any; }'.

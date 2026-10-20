@@ -25,3 +25,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Security audit reports
+gitleaks-report.json
+
+# Allow example env template
+!.env.example

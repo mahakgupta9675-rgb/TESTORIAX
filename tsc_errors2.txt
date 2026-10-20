@@ -1,4 +1,0 @@
-src/components/creator/CreatorProfileView.tsx(4,43): error TS6133: 'Edit3' is declared but its value is never read.
-src/components/creator/CreatorProfileView.tsx(4,53): error TS6133: 'Sparkles' is declared but its value is never read.
-src/components/creator/CreatorProfileView.tsx(56,10): error TS6133: 'activeTab' is declared but its value is never read.
-src/components/creator/CreatorProfileView.tsx(56,21): error TS6133: 'setActiveTab' is declared but its value is never read.
