@@ -1296,6 +1296,8 @@ app.post('/api/payments/webhook', async (req, res) => {
       return res.status(400).json({ error: 'Invalid webhook signature.' });
     }
 
+    const isSignatureVerified = true;
+
     await logFinancialAudit(null, 'WEBHOOK_VERIFIED', null, null, {
       event_type: payload?.event,
       event_id: payload?.event_id
